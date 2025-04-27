@@ -7,7 +7,7 @@ Criada acompanhando minicurso Hashtag Programação (Aulas 1–6).
 Node.js, Express, Joi  
 
 ## Instalação  
-1. git clone 
+1. git clone https://github.com/JorgeALDev/Campeonato-Brasileiro-de-2024
 2. cd Campeonato-Brasileiro-de-2024  
 3. npm install  
 4. npm start  
